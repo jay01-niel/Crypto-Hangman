@@ -140,7 +140,7 @@ const wordList = [
     hint: "A dense forest characterized by high rainfall and biodiversity.",
   },
   {
-    word: "theater",
+    word: "theatre",
     hint: "A building or outdoor area in which plays, movies, or other performances are staged.",
   },
   {
